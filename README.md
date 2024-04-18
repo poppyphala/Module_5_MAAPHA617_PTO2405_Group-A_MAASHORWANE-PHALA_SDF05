@@ -61,3 +61,16 @@ Once you've completed and tested your Blackjack game:
 
 ### Happy Coding!
 Dive into game development with this project. Enjoy learning, applying your knowledge, and overcoming challenges along the way!
+
+1. RECAP
+- arrays
+- objects
+- booleans
+- if else statements
+- comparison operators
+- logical operations
+- for loops
+- Math. Object
+- return statements 
+- (x). object
+- .(x) method(s)
